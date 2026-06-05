@@ -1,0 +1,1 @@
+a=sorted(list1)

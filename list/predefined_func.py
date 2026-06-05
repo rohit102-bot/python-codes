@@ -1,0 +1,11 @@
+list1=[1,2,5,4,3,6,8,9,7,10,33,1,23,5,6,-1,6,-8,-7,10]
+print(min(list1))
+print(max(list1))
+s=sorted(list1)
+print(s)
+r=sorted(list1,reverse=True)
+print(r)
+print(list1.count(1))
+a=['kwrjnf','kbhr','ryhigv','riibikm','vbgrvb','rtgb','rtgdvb']
+a.sort(key=str.upper)
+print(a)
