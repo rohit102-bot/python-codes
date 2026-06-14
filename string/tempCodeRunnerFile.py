@@ -1,0 +1,1 @@
+print(f"length of string is {str1}")

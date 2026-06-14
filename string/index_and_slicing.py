@@ -1,0 +1,15 @@
+str1="programming"
+str2=str1[0]
+str3=str1[-1]
+str4=str1[4]
+print(str1,str2,str3,str4,sep="\n")
+str5=str1[:5]
+print(str5)
+str6=str1[5:]
+print(str6)
+str7=str1[::-1]
+print(str7)
+str8=str1[3:-8]
+print(str8)
+str9=str1[::2]
+print(str9)
