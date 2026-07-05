@@ -1,0 +1,5 @@
+a=set(range(10,60,10))
+print(a)
+value1=a.pop()
+print(value1)
+print(a)
