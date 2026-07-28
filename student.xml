@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<students>
+    <student>
+        <id>101</id>
+        <name>Rohit</name>
+        <branch>CSE</branch>
+    </student>
+    <student>
+        <id>102</id>
+        <name>Amit</name>
+        <branch>IT</branch>
+    </student>
+</students>
